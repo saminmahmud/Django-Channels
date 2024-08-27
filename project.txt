@@ -1,7 +1,0 @@
-1) pip install -U 'channels[daphne]'
-2) installed_app:     
-    'daphne',
-    'django.contrib.admin',
-3) ASGI_APPLICATION = 'myproject.asgi.application'
-
-https://channels.readthedocs.io/en/latest/
